@@ -1,2 +1,2 @@
-# JavaScript Review Project by Ranidel Luzon Padoga
-This project is a review of JavaScript concepts, from begginer to advanced. 
+# JavaScript Review Project by write_your_full_name
+This project is a review of JavaScript concepts, from beginner to advanced.
